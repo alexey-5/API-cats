@@ -9,7 +9,7 @@ async function fetchRes() {
       const data = await response.json();
       console.log(data)
       image.src = data.file;
-      setTimeout(timeOut, 3000);
+      setTimeout(timeOut, 2500);
       //задержка позволяет дождаться отрисовки картины в браузере
    } catch (err) {
       console.log(err)
