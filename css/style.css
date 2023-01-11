@@ -1,0 +1,26 @@
+body {
+   background-color: rgb(207, 173, 131);
+   text-align: center;
+}
+.img{
+   max-width: 600px;
+   background-color: rgb(165 209 194);
+   border-radius: 10px;
+   padding: 10px;
+   box-shadow:#171819 -8px 13px 12px 0px;
+   max-width: 95%;
+   max-height: 600px;
+}
+.btn{
+   border: 2px solid rgb(21, 188, 21);
+   padding: 20px;
+   border-radius: 15px;
+   margin-top: 20px;
+   cursor: pointer;
+   background-color: antiquewhite;
+   font-size: 20px;
+   position: fixed;
+   bottom: 20px;
+   left: 50%;
+   transform: translate(-50%);
+}
