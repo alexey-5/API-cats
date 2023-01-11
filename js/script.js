@@ -1,5 +1,4 @@
-const url = 'http://aws.random.cat/meow';
-//const url_2 ='https://images.unsplash.com/photo-1525923838299-2312b60f6d69';
+const url = 'https://aws.random.cat/meow';
 const image = document.querySelector('.img');
 const button = document.querySelector('.btn')
 
