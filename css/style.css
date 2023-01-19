@@ -28,6 +28,10 @@ body {
    left: 50%;
    transform: translate(-130%);
 }
+.btn1:disabled{
+   background-color: rgb(185, 178, 170);
+   color: rgb(185, 178, 170);;
+}
 .btn2{
    border: 2px solid rgb(21, 188, 21);
    padding: 20px;
